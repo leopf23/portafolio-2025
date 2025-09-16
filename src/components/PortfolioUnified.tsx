@@ -508,7 +508,7 @@ export function PortfolioUnified() {
                       variant="outline"
                       size="lg"
                       className="gap-2 cursor-pointer glass-effect"
-                      onClick={() => window.open("/resumen.pdf", "_blank")}
+                      onClick={() => window.open("/https://drive.google.com/file/d/1tTPkdrinNecvOKsu7410AZiY4HjUI2jy/view", "_blank")}
                     >
                       <Download className="w-4 h-4" />
                       Download CV
@@ -529,7 +529,7 @@ export function PortfolioUnified() {
               </p>
               <div className="flex items-center space-x-4">
                 <Button variant="ghost" size="sm" className="p-0 w-8 h-8">
-                  <a href="https://www.linkedin.com/in/leonardo-perez-figueroa-030760162/" target="_blank" rel="noopener noreferrer">
+                  <a href="/resumen.pdf" target="_blank" rel="noopener noreferrer">
                     <Button variant="ghost" size="sm" className="p-0 w-8 h-8 cursor-pointer">
                       <Linkedin className="w-4 h-4" />
                     </Button>
