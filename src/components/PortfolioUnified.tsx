@@ -69,7 +69,7 @@ export function PortfolioUnified() {
     {
       title: "Farma Extra Mobile App",
       description: "Complete UX/UI redesign of a pharmaceutical app, focusing on simplifying prescription management, improving patient user journeys, and enhancing overall accessibility.",
-      image: "/2mockup.png",
+      image: "https://i.ibb.co/HD7MhH6N/2mockup.png",
       tags: ["Mobile", "E-commerce", "UX Research", "Prototyping"],
       year: "2024",
       behanceUrl: "https://www.behance.net/gallery/218593341/Design-Pharmacy-UXUI"
@@ -232,7 +232,7 @@ export function PortfolioUnified() {
                   <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-purple-500/20 rounded-3xl rotate-6 animate-float"></div>
                   <div className="relative bg-card shadow-soft-lg border rounded-3xl overflow-hidden glass-effect">
                     <ImageWithFallback
-                      src="https://ibb.co/7tPtMZX2"
+                      src="https://i.ibb.co/d4F4CVrG/me.jpg"
                       alt="Leonardo pF - UI/UX Designer"
                       className="w-full h-full object-cover"
                     />
