@@ -188,7 +188,7 @@ export function PortfolioUnified() {
                     variant="outline"
                     size="lg"
                     className="gap-2 cursor-pointer glass-effect"
-                    onClick={() => window.open("https://drive.google.com/file/d/1tTPkdrinNecvOKsu7410AZiY4HjUI2jy/view", "_blank")}
+                    onClick={() => window.open("https://drive.google.com/file/d/1ZzkNKugHDJBi2-qsWtrcAibLrvaiMJu4/view", "_blank")}
                   >
                     <Download className="w-4 h-4" />
                     Download CV
@@ -508,7 +508,7 @@ export function PortfolioUnified() {
                       variant="outline"
                       size="lg"
                       className="gap-2 cursor-pointer glass-effect"
-                      onClick={() => window.open("https://drive.google.com/file/d/1tTPkdrinNecvOKsu7410AZiY4HjUI2jy/view", "_blank")}
+                      onClick={() => window.open("https://drive.google.com/file/d/1ZzkNKugHDJBi2-qsWtrcAibLrvaiMJu4/view", "_blank")}
                     >
                       <Download className="w-4 h-4" />
                       Download CV
