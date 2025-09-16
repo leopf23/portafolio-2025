@@ -70,7 +70,7 @@ export function PortfolioUnified() {
       title: "Farma Extra Mobile App",
       description: "Complete UX/UI redesign of a pharmaceutical app, focusing on simplifying prescription management, improving patient user journeys, and enhancing overall accessibility.",
       image: "https://i.ibb.co/HD7MhH6N/2mockup.png",
-      tags: ["Mobile", "E-commerce", "UX Research", "Prototyping"],
+      tags: ["Mobile", "E-commerce", "React Native", "Figma"],
       year: "2024",
       behanceUrl: "https://www.behance.net/gallery/218593341/Design-Pharmacy-UXUI"
     },
@@ -78,7 +78,7 @@ export function PortfolioUnified() {
       title: "AION - Dashboard Design",
       description: "Modern dashboard interface for a project management tool with complex data visualization and real-time collaboration features.",
       image: "3mockup.png",
-      tags: ["Web", "SaaS", "Data Viz", "Design System"],
+      tags: ["Web", "React", "Adibe XD", "Design System"],
       year: "2024",
       behanceUrl: "https://www.behance.net/gallery/212517375/Dashboard-UXUI-(AION)"
     },
@@ -86,7 +86,7 @@ export function PortfolioUnified() {
       title: "e-commerce",
       description: "Complete UX/UI redesign of an electronics e-commerce platform, focusing on enhancing product discovery, optimizing checkout flow, and boosting conversion rates.",
       image: "4mockup.png",
-      tags: ["Branding", "Logo Design", "Visual Identity"],
+      tags: ["Next JS", "Adobe XD", "Visual Identity"],
       year: "2023",
       behanceUrl: "https://www.behance.net/gallery/218592993/UIUX-E-commerce"
     }
@@ -188,7 +188,7 @@ export function PortfolioUnified() {
                     variant="outline"
                     size="lg"
                     className="gap-2 cursor-pointer glass-effect"
-                    onClick={() => window.open("/resumen.pdf", "_blank")}
+                    onClick={() => window.open("https://drive.google.com/file/d/1tTPkdrinNecvOKsu7410AZiY4HjUI2jy/view", "_blank")}
                   >
                     <Download className="w-4 h-4" />
                     Download CV
