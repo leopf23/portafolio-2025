@@ -188,7 +188,7 @@ export function PortfolioUnified() {
                     variant="outline"
                     size="lg"
                     className="gap-2 cursor-pointer glass-effect"
-                    onClick={() => window.open("https://github.com/leopf23/portafolio-2025/blob/main/public/resumen.pdf", "_blank")}
+                    onClick={() => window.open("https://raw.githubusercontent.com/leopf23/portafolio-2025/main/public/resumen.pdf", "_blank")}
                   >
                     <Download className="w-4 h-4" />
                     Download CV
@@ -508,7 +508,7 @@ export function PortfolioUnified() {
                       variant="outline"
                       size="lg"
                       className="gap-2 cursor-pointer glass-effect"
-                      onClick={() => window.open("/https://github.com/leopf23/portafolio-2025/blob/main/public/resumen.pdf", "_blank")}
+                      onClick={() => window.open("https://raw.githubusercontent.com/leopf23/portafolio-2025/main/public/resumen.pdf", "_blank")}
                     >
                       <Download className="w-4 h-4" />
                       Download CV
